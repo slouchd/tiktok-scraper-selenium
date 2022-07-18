@@ -1,8 +1,8 @@
 About
 ---
-This is a quick and dirty script that uses selenium and a webdriver binary to scrape public TikTok profiles.
+This is a quick and dirty script that uses selenium and a webdriver binary (either Firefox or Chrome) to scrape public TikTok profiles.
 
-TikTok not long ago changed the way you could scrape profiles using requests. So this is a newer more effective technique.
+TikTok not so long ago changed the way you could scrape profiles using requests. So this is a newer more effective technique.
 
 Installation
 ---
