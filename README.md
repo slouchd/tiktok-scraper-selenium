@@ -29,7 +29,7 @@ If it works correctly you should see a returned JSON object. This will contain t
     "username": "example", 
     "nickname": "example", 
     "uid": "123", 
-    "secuid": "AAA234, 
+    "secuid": "AAA234", 
     "description": "The official account for example", 
     "verified": true, 
     "private": false, 
